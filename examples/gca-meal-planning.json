@@ -1,0 +1,14 @@
+{
+  "goal_id": "meal_planning",
+  "state": {
+    "progress": 0.65,
+    "metadata": {
+      "weekly_target_calories": 14000,
+      "calories_consumed": 9100,
+      "recipes_tried": 8,
+      "pantry_items": ["chicken", "rice", "spinach"],
+      "next_action": "plan_dinner"
+    }
+  },
+  "timestamp": "2025-12-09T14:00:00Z"
+}
