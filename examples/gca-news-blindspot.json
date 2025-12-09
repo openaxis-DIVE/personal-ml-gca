@@ -1,0 +1,30 @@
+{
+  "goal_id": "news_blindspot_analysis",
+  "state": {
+    "progress": 0.35,
+    "metadata": {
+      "sources_tracked": ["BBC", "CNN", "Fox News", "Reuters", "Al Jazeera"],
+      "bias_categories": ["political", "geographic", "demographic"],
+      "articles_read": 427,
+      "blindspots_identified": [
+        {
+          "type": "geographic",
+          "region": "Southeast Asia",
+          "last_read": "2025-12-02T00:00:00Z"
+        },
+        {
+          "type": "political",
+          "lean": "conservative",
+          "percentage": 15
+        }
+      ],
+      "bias_distribution": {
+        "left": 60,
+        "center": 25,
+        "right": 15
+      },
+      "next_action": "review_weekly_report"
+    }
+  },
+  "timestamp": "2025-12-09T14:00:00Z"
+}
